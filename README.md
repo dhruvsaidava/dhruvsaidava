@@ -10,6 +10,10 @@ Hi, My name is Dhruv Saidava, and I am a Educator + traveler developer with a pa
 [![Telegram](https://img.shields.io/badge/-@dhruvsaidava-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dhruvsaidava)
 [![Instagram](https://img.shields.io/badge/-dhruvsaidava-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/dhruvsaidava)
 
+<!-- Profile View Count and GitStats -->
+![](https://komarev.com/ghpvc/?username=dhruvsaidava&style=flat)
+[![Github](https://img.shields.io/badge/-dhruvsaidava-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/dhruvsaidava)
+
 
 ### 💼  My Skills and Experience:
 * 7+ years of experience in mentoring
