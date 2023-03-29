@@ -20,3 +20,28 @@ Hi, My name is Dhruv Saidava, and I am a Educator + traveler developer with a pa
 * 5+ years of experience digital fabrication
 * 1+ years of experience with process development for Reskilling & UpSkilling
 * 3+ years of experience with Product Design and Development of STEM
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=dhruvsaidava&hide_border=true&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=dhruvsaidava&hide_border=true&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvsaidava&hide_border=true&show_icons=true" />
+</picture>
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsaidava&layout=compact&hide_border=true&langs_count=8&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsaidava&layout=compact&hide_border=true&langs_count=8&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsaidava&layout=compact&hide_border=true&langs_count=8&show_icons=true" />
+</picture>
+
